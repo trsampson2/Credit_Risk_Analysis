@@ -62,7 +62,7 @@ The confusion matrix:
 
 The classification report shows the precision and recall of the model as 100% and 59%, respectively, for predicting low risk credit.
 
-![Undersampling_Class_Report](https://user-images.githubusercontent.com/86331812/148653400-607f025c-0b5e-48d7-ba42-ddab9f0ac8ba.png)
+![SMOTEEN_Class_Report](https://user-images.githubusercontent.com/86331812/148654241-eeba66b8-14fe-45ad-a9c9-7bfc6978ccaa.png)
 
 
 #### Balanced Random Forest Classifier 
